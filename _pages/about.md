@@ -16,4 +16,21 @@ Education
   * Topic: Weakly supervised temporal action localization (Excellent UG Thesis Hornor)
 * Ph.D in Computer Science and Engineering, Hong Kong University of Science and Technology (In Progress, start from 2020 Fall)
 
+Publications
+======
 
+**[TOSEM'23]** COMET:Coverage-guided Model Generation For Deep Learning Library Testing\\
+**Meiziniu Li**, Jialun Cao, Yongqiang Tian, Tsz On Li, Ming Wen, and Shing-Chi Cheung\\
+_In ACM Transactions on Software Engineering and Methodology, 2022_
+
+**[ICSE’22]** DeepFD: Automated Fault Diagnosis and Localization for Deep Learning Programs\\
+Jialun Cao, **Meiziniu Li**, Xiao Chen, Ming Wen, Yongqiang Tian, Bo Wu, and Shing-Chi Cheung\\
+_In the International Conference on Software Engineering, Technical Research Paper, 2022_
+
+**[TOSEM'22]** SemMT: A Semantic-based Testing Approach for Machine Translation Systems\\
+Jialun Cao, **Meiziniu Li**, Yeting Li, Ming Wen, Shing-Chi Cheung and Haiming Chen\\
+_In ACM Transactions on Software Engineering and Methodology, 2022_
+
+**[CSCW'22, Companion]** Facilitating Continuous Text Messaging in Romantic Encounters Online by Expanded Keywords Enumeration\\
+Taewook Kim, Qingyu Guo, Hyeonjae Kim, Wenjie Yang, **Meiziniu Li**, Xiaojuan Ma\\
+_In Companion Computer Supported Cooperative Work and Social Computing, Post, 2022_
