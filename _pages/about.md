@@ -21,7 +21,7 @@ Publications
 
 **[TOSEM'23]** COMET:Coverage-guided Model Generation For Deep Learning Library Testing\\
 **Meiziniu Li**, Jialun Cao, Yongqiang Tian, Tsz On Li, Ming Wen, and Shing-Chi Cheung\\
-_In ACM Transactions on Software Engineering and Methodology, 2022_
+_In ACM Transactions on Software Engineering and Methodology, 2023_
 
 **[ICSE’22]** DeepFD: Automated Fault Diagnosis and Localization for Deep Learning Programs\\
 Jialun Cao, **Meiziniu Li**, Xiao Chen, Ming Wen, Yongqiang Tian, Bo Wu, and Shing-Chi Cheung\\
