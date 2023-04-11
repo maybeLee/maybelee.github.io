@@ -12,9 +12,9 @@ I am a third-year PhD student at The Hong Kong University of Science and Technol
 Education
 ======
 
+* Ph.D in Computer Science and Engineering, Hong Kong University of Science and Technology (In Progress, start from 2020 Fall)
 * B.S. in the school of AI and Automation, Huazhong University of Science and Technology, 2020
   * Topic: Weakly supervised temporal action localization (Excellent UG Thesis Hornor)
-* Ph.D in Computer Science and Engineering, Hong Kong University of Science and Technology (In Progress, start from 2020 Fall)
 
 Publications
 ======
@@ -34,3 +34,11 @@ _In ACM Transactions on Software Engineering and Methodology, 2022_
 **[CSCW'22, Companion]** Facilitating Continuous Text Messaging in Romantic Encounters Online by Expanded Keywords Enumeration\\
 Taewook Kim, Qingyu Guo, Hyeonjae Kim, Wenjie Yang, **Meiziniu Li**, Xiaojuan Ma\\
 _In Companion Computer Supported Cooperative Work and Social Computing, Post, 2022_
+
+Teaching
+======
+
+
+**HKUST COMP 5111**. Fundamentals of Software Testing and Analysis, Spring 2023.\\
+**HKUST COMP 5111**. Fundamentals of Software Testing and Analysis, Spring 2022.\\
+**HKUST COMP 3721**. Theory of Computation, Fall 2021.
