@@ -14,7 +14,6 @@ Education
 
 * Ph.D in Computer Science and Engineering, Hong Kong University of Science and Technology (In Progress, start from 2020 Fall)
 * B.S. in the school of AI and Automation, Huazhong University of Science and Technology, 2020
-  * Topic: Weakly supervised temporal action localization (Excellent UG Thesis Hornor)
 
 Publications
 ======
@@ -42,3 +41,10 @@ Teaching
 **HKUST COMP 5111**. Fundamentals of Software Testing and Analysis, Spring 2023.\\
 **HKUST COMP 5111**. Fundamentals of Software Testing and Analysis, Spring 2022.\\
 **HKUST COMP 3721**. Theory of Computation, Fall 2021.
+
+Awards
+======
+
+* HKUST RedBird Academic Excellence Award, HKUST, 2023
+* Postgraduate Studentship, HKUST, 2020-2024
+* Excellent UG Thesis Hornor, HUST, 2020
