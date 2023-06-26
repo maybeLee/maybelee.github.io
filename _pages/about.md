@@ -45,6 +45,6 @@ Teaching
 Awards
 ======
 
-* HKUST RedBird Academic Excellence Award, HKUST, 2023
+* HKUST RedBird Academic Excellence Award for Continuing PhD Students, HKUST, 2023
 * Postgraduate Studentship, HKUST, 2020-2024
 * Excellent UG Thesis Hornor, HUST, 2020
