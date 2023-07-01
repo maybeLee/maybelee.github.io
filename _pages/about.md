@@ -13,7 +13,7 @@ Education
 ======
 
 * Ph.D in Computer Science and Engineering, Hong Kong University of Science and Technology (In Progress, start from 2020 Fall)
-* B.S. in the school of AI and Automation, Huazhong University of Science and Technology, 2020
+* B.S. in AI and Automation, Huazhong University of Science and Technology, 2020
 
 Publications
 ======
