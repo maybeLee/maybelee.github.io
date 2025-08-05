@@ -22,6 +22,10 @@ Education
 Publications
 ======
 
+**[ACL Main'25]** From Informal to Formal – Incorporating and Evaluating LLMs on Natural Language Requirements to Verifiable Formal Proofs\\
+Jialun Cao, Yaojie Lu, **Meiziniu Li**, Haoyang Ma, Haokun Li, Mengda He, Cheng Wen, Le Sun, Hongyu Zhang, Shengchao Qin, Shing-Chi Cheung, Cong Tian\\
+_In ACL Main, 2025_
+
 **[TOSEM'25]** Enhancing Differential Testing With LLMs For Testing Deep Learning Libraries\\
 **Meiziniu Li**, Dongze Li, Jianmeng Liu, Jialun Cao, Yongqiang Tian, Shing-Chi Cheung\\
 _In ACM Transactions on Software Engineering and Methodology, 2025_
