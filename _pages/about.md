@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a fifth-year PhD student at The Hong Kong University of Science and Technology, supervised by Prof. [Shing-Chi Cheung](http://home.cse.ust.hk/faculty/scc/). 
+I am a six-year PhD student at The Hong Kong University of Science and Technology, supervised by Prof. [Shing-Chi Cheung](http://home.cse.ust.hk/faculty/scc/). 
 I also had an unforgettable visiting experience at UIUC under the supervision of Prof. [Lingming Zhang](http://lingming.cs.illinois.edu).
 I received my bachelor's degree at [HUST](http://english.hust.edu.cn/). 
 My research interest is large language model-driven software testing / program analysis.
