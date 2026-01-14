@@ -57,7 +57,7 @@ _In Companion Computer Supported Cooperative Work and Social Computing, Post, 20
 Teaching Assistant
 ======
 
-**HKUST CSIT 5100**. Engineering Reliable Object-Oriented Software Systems, Fall 2024/2023.\\
+**HKUST CSIT 5100**. Engineering Reliable Object-Oriented Software Systems, Fall 2025/2024/2023.\\
 **HKUST COMP 5111**. Fundamentals of Software Testing and Analysis, Spring 2023/2022.\\
 **HKUST COMP 3721**. Theory of Computation, Fall 2021.
 
