@@ -16,7 +16,7 @@ Currently I am working on testing and analyzing deep learning libraries includin
 Education
 ======
 
-* Ph.D in Computer Science and Engineering, Hong Kong University of Science and Technology, 2025 (Expected)
+* Ph.D in Computer Science and Engineering, Hong Kong University of Science and Technology, 2026 (Expected)
 * B.S. in AI and Automation, Huazhong University of Science and Technology, 2020
 
 Publications
